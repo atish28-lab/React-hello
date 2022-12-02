@@ -4,7 +4,7 @@
 // A paragraph to give a brief description of your project
 // An ordered or unordered list to discuss 3 major skills used in this project
 
-export default function App() {
+export default function MyProject() {
   return (
     <div className="App">
       <h1>Hello world project</h1>
